@@ -8,7 +8,7 @@
 
 ## Introduction
 
-I developed this project in HTML, CSS, JavaScript with Digital Innovation One(DIO). 
+I developed this project in HTML, CSS, JavaScript during the classes at Digital Innovation One(DIO). 
 <br/>
 I have contribuited in my version with the following functionalities:
 
@@ -37,7 +37,7 @@ I have contribuited in my version with the following functionalities:
 <br/>
 <br/>
 
-![image](https://user-images.githubusercontent.com/53226501/132890804-59bac800-82c9-4780-8cb8-814a48d2e943.png)
+![netflix-clone](https://user-images.githubusercontent.com/53226501/132921161-1b66d1b8-779a-4b4b-aae3-e75ec7dbfa73.gif)
 
 © R B  Pavanello.
 
