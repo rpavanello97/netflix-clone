@@ -5,7 +5,6 @@
 <br/>
 <br/>
 <br/>
-![image](https://user-images.githubusercontent.com/53226501/132890804-59bac800-82c9-4780-8cb8-814a48d2e943.png)
 
 ## Introduction
 
